@@ -124,8 +124,9 @@ font-weight: 800;
     }
     
     .container {
-        width: 80%; /
-        margin: 20px; 
+        width: 410px; /
+        border-radius: 1rem;
+    overflow: hidden;
     }
     
     .top img {
